@@ -51,8 +51,8 @@ My main interests are **reverse engineering, low-level development, game securit
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xorebyte&show_icons=true&hide_border=true&theme=transparent&title_color=9b5cff&icon_color=9b5cff&text_color=c9d1d9" alt="XorByte GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xorebyte&layout=compact&hide_border=true&theme=transparent&title_color=9b5cff&text_color=c9d1d9" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=xorebyte&show_icons=true&hide_border=true&theme=transparent&title_color=9b5cff&icon_color=9b5cff&text_color=c9d1d9" alt="XorByte GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xorebyte&layout=compact&hide_border=true&theme=transparent&title_color=9b5cff&text_color=c9d1d9" alt="Most used languages" />
 </p>
 
 ---
