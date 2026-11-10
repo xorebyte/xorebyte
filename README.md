@@ -12,6 +12,41 @@ Reverse Engineering · C/C++ · Python · Anti-Cheat Development
 
 </div>
 
+
+<div align="center">
+
+<pre>
+  .--------.       .----------------------.
+ / .------. \      |  X O R B Y T E       |
+| | 0xDEAD | |     |  REVERSE ENGINEERING |
+| | 0xBEEF | |     |  LOW-LEVEL RESEARCH  |
+| |________| |     '----------------------'
+|   ______  |        _.-^^---....,,--
+|  |______| |    _--                  --_
+|__________.'  <      DISASSEMBLE      >
+                  --_              _--
+                     ''--......--''
+</pre>
+
+<code>xor@lab:~$ ida -A -S"analyze.py" target.exe</code>
+
+<sub>STATIC ANALYSIS // DISASSEMBLY // DEBUGGING // BINARY RESEARCH</sub>
+
+</div>
+
+## Reverse Engineering Lab
+
+A focus on understanding binaries from the inside out: tracing execution, inspecting assembly, mapping program structures, and investigating software behavior.
+
+**IDA Pro-inspired workflow:**
+
+- **Disassembly:** inspect functions, control flow, and assembly instructions
+- **Debugging:** trace runtime behavior and investigate execution paths
+- **Binary analysis:** examine imports, strings, sections, and program structure
+- **Research tooling:** build small utilities and scripts to support repeatable analysis
+
+<sub>Tools of interest: IDA Pro · Ghidra · x64dbg · WinDbg</sub>
+
 ---
 
 ## `whoami`
